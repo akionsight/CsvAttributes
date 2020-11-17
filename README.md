@@ -8,7 +8,7 @@ import CsvAttributes.CsvAttributes
 ```
 - Create a instance of the `CsvAttributes` Class and pass in the name of your csv file; eg:
 ```python
-file = CsvAttributes(test.csv)
+file = CsvAttributes('test.csv')
 ```
 - Now access the various methords in the class to row and coloumn info of your csv file.
 
