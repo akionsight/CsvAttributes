@@ -17,6 +17,6 @@ class CsvAttributes:
             return no_of_lines
 
 
-file = CsvAttributes('governors_county_candidate.csv')
-print(file.no_of_columns())
-print(file.rows())
+# file = CsvAttributes('governors_county_candidate.csv')
+# print(file.no_of_columns())
+# print(file.rows())
